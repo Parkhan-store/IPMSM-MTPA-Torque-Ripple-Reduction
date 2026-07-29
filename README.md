@@ -22,7 +22,7 @@ The controller is converted from analog blocks to a **24 kHz digital implementat
 | Final torque ripple (peak-to-peak) | 3.946 N·m |
 | Torque-ripple reduction | **81.5%** |
 
-> **Scope:** All results are based on PSIM switching simulations. HILS and experimental validation have not yet been completed.
+> **Scope:** All results are based on PSIM switching simulations.
 
 ## System Configuration
 
